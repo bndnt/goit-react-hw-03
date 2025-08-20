@@ -1,0 +1,23 @@
+.formBox {
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 5px;
+  width: 100%;
+  max-width: 400px;
+}
+.form label {
+  display: block;
+  margin-bottom: 5px;
+}
+.form input {
+  margin-bottom: 10px;
+  width: 100%;
+}
+.formBtn {
+  margin: 0 auto;
+  width: 120px;
+  display: block;
+}
+.form span {
+  color: red;
+}

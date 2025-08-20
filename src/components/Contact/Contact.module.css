@@ -1,0 +1,12 @@
+.contactCard {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.contactInfo {
+  margin-right: 30px;
+}
+.contactCard p {
+  font-size: 18px;
+  font-weight: 500;
+}
